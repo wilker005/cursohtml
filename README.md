@@ -1,2 +1,2 @@
 # cursohtml
-Repositório para as aulas do bootcamp de html
+Repositório para a aula prática 1 do bootcamp de html da DIO.me
